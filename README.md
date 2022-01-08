@@ -36,13 +36,13 @@ def max_marks(marks):
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
-![output](./img1.png)
-![output](./img2.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/FindMaximum/blob/3b3ee641fd2f90ae3506d2e2b4d3dc36bcdfcf30/img1.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/FindMaximum/blob/3b3ee641fd2f90ae3506d2e2b4d3dc36bcdfcf30/img2.PNG)
 
 ## Output:
-![output](./output1.png)
-![output](./output2.png)
-![output](./output3.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/FindMaximum/blob/3b3ee641fd2f90ae3506d2e2b4d3dc36bcdfcf30/output1.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/FindMaximum/blob/3b3ee641fd2f90ae3506d2e2b4d3dc36bcdfcf30/output2.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/FindMaximum/blob/3b3ee641fd2f90ae3506d2e2b4d3dc36bcdfcf30/output3.PNG)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
